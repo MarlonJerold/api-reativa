@@ -1,5 +1,5 @@
 Pensando em escalabilidade e pensando também em trabalhar com eventos, 
-temos o Paradigma Reativo, entender como ele se comporta fará com que você não gaste tanto recursões, 
+temos o Paradigma Reativo, entender como ele se comporta fará com que você não gaste tanto recursos, 
 Tanto horizontal quanto vertifical, o foco seria como trabalhar melhor seu processador.
 
 Quando pensamos em um grande número de requisição, fica interessante a abordagem, nesse peque código, você 
